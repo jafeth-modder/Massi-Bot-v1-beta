@@ -1,0 +1,72 @@
+# ===============================
+# Node / JavaScript
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===============================
+# Environment / Secrets
+# ===============================
+.env
+.env.*
+*.env
+
+# ===============================
+# Auth / Sessions (WhatsApp, APIs)
+# ===============================
+auth/
+auth_info/
+auth_info_multi/
+sessions/
+session/
+creds.json
+*.session.json
+
+# ===============================
+# Gmail / Google OAuth
+# ===============================
+gmail/token.json
+gmail/*.json
+google_token.json
+credentials.json
+client_secret*.json
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+
+# ===============================
+# OS / Editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ===============================
+# Build / Dist
+# ===============================
+dist/
+build/
+
+# ===============================
+# Backups
+# ===============================
+*.bak
+*.backup
+*.old
+
+# ===============================
+# Misc security
+# ===============================
+*.key
+*.pem
+*.crt
+*.p12
+

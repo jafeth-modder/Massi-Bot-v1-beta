@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Massi",
+    "gender": "Mujer",
+    "source": "Hot sause",
+    "image": "https://files.catbox.moe/u24kbp.jpeg",
+    "stats": { "hp": 85, "maxHp": 85, "magia": 40, "fuerza": 60, "defensa": 20, "velocidad": 35 },
+    "arma": { "tipo": "espada" },
+    "rarity": "SR",
+    "element": "fuego"
+  },
+  {
+    "name": "El calvo",
+    "gender": "Hombre",
+    "source": "Brazzier",
+    "image": "https://files.catbox.moe/c0yqx3.jpg",
+    "stats": { "hp": 100, "maxHp": 100, "magia": 10, "fuerza": 85, "defensa": 35, "velocidad": 15 },
+    "arma": { "tipo": "martillo" },
+    "rarity": "R",
+    "element": "tierra"
+  },
+  {
+    "name": "Markro",
+    "gender": "Hombre",
+    "source": "Aspecto raro",
+    "image": "https://files.catbox.moe/58bvrq.png",
+    "stats": { "hp": 90, "maxHp": 100, "magia": 10, "fuerza": 95, "defensa": 75, "velocidad": 15 },
+    "arma": { "tipo": "martillo" },
+    "rarity": "R",
+    "element": "tierra"
+  },
+  {
+    "name": "Diosa Arkel",
+    "gender": "Mujer",
+    "source": "Desconocido",
+    "image": "https://files.catbox.moe/0pb2p3.png",
+    "stats": { "hp": 98, "maxHp": 89, "magia": 67, "fuerza": 100, "defensa": 85, "velocidad": 88 },
+    "arma": { "tipo": "varita" },
+    "rarity": "R",
+    "element": "tierra"
+  },
+    {
+    "name": "Drasker",
+    "gender": "Hombre",
+    "source": "Poder oculto",
+    "image": "https://files.catbox.moe/fpkv83.png",
+    "stats": { "hp": 98, "maxHp": 100, "magia": 97, "fuerza": 95, "defensa": 25, "velocidad": 82 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "tierra"
+  },
+  {
+    "name": "Samira",
+    "gender": "Mujer",
+    "source": "Mujer soltera pero hot",
+    "image": "https://files.catbox.moe/sbjk1w.jpg",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 65, "fuerza": 45, "defensa": 20, "velocidad": 55 },
+    "arma": { "tipo": "cuchillo" },
+    "rarity": "SR",
+    "element": "aire"
+  },
+  {
+    "name": "Lana Del Rey",
+    "gender": "Mujer",
+    "source": "Mujer soltera pero hot",
+    "image": "https://files.catbox.moe/8h4ssq.jpeg",
+    "stats": { "hp": 60, "maxHp": 60, "magia": 90, "fuerza": 30, "defensa": 15, "velocidad": 40 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "luz"
+  },
+  {
+    "name": "Mitzurk",
+    "gender": "Mujer",
+    "source": "Anime",
+    "image": "https://files.catbox.moe/lsky7a.jpg",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 55, "fuerza": 50, "defensa": 25, "velocidad": 45 },
+    "arma": { "tipo": "espada" },
+    "rarity": "R",
+    "element": "viento"
+  },
+  {
+    "name": "Nahomi",
+    "gender": "Mujer",
+    "source": "Colegiala Estudiosa",
+    "image": "https://files.catbox.moe/j2itjf.png",
+    "stats": { "hp": 65, "maxHp": 65, "magia": 80, "fuerza": 35, "defensa": 20, "velocidad": 50 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SR",
+    "element": "agua"
+  },
+  {
+    "name": "Elizabeth",
+    "gender": "Mujer",
+    "source": "Girls bikini",
+    "image": "https://files.catbox.moe/if7nzw.jpg",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 30, "fuerza": 55, "defensa": 20, "velocidad": 45 },
+    "arma": { "tipo": "espada" },
+    "rarity": "R",
+    "element": "agua"
+  },
+  {
+    "name": "Samara",
+    "gender": "Mujer",
+    "source": "Chica encantadora",
+    "image": "https://files.catbox.moe/gzkkg1.png",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 50, "fuerza": 50, "defensa": 25, "velocidad": 50 },
+    "arma": { "tipo": "cuchillo" },
+    "rarity": "SR",
+    "element": "luz"
+  },
+  {
+    "name": "Bettany",
+    "gender": "Mujer",
+    "source": "Mujer reservada",
+    "image": "https://files.catbox.moe/ib6050.png",
+    "stats": { "hp": 80, "maxHp": 80, "magia": 35, "fuerza": 45, "defensa": 30, "velocidad": 40 },
+    "arma": { "tipo": "espada" },
+    "rarity": "R",
+    "element": "tierra"
+  },
+  {
+    "name": "Keyrianis",
+    "gender": "Mujer",
+    "source": "Mujer con grandes secretos",
+    "image": "https://files.catbox.moe/1784t6.png",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 85, "fuerza": 30, "defensa": 20, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "oscuro"
+  },
+
+  {
+    "name": "Asuna Yuuki",
+    "gender": "Mujer",
+    "source": "Sword Art Online",
+    "image": "https://files.catbox.moe/l6odn9.jpeg",
+    "stats": { "hp": 90, "maxHp": 90, "magia": 50, "fuerza": 75, "defensa": 35, "velocidad": 60 },
+    "arma": { "tipo": "espada" },
+    "rarity": "SSR",
+    "element": "luz"
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "gender": "Mujer",
+    "source": "Attack on Titan",
+    "image": "https://files.catbox.moe/b9l182.jpeg",
+    "stats": { "hp": 95, "maxHp": 95, "magia": 15, "fuerza": 90, "defensa": 40, "velocidad": 70 },
+    "arma": { "tipo": "espada" },
+    "rarity": "SSR",
+    "element": "tierra"
+  },
+  {
+    "name": "Zero Two",
+    "gender": "Mujer",
+    "source": "Darling in the Franxx",
+    "image": "https://files.catbox.moe/rxgwee.jpg",
+    "stats": { "hp": 80, "maxHp": 80, "magia": 60, "fuerza": 65, "defensa": 25, "velocidad": 65 },
+    "arma": { "tipo": "cuchillo" },
+    "rarity": "SSR",
+    "element": "fuego"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "gender": "Mujer",
+    "source": "Naruto",
+    "image": "https://files.catbox.moe/h0k2wd.jpeg",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 60, "fuerza": 50, "defensa": 30, "velocidad": 45 },
+    "arma": { "tipo": "espada" },
+    "rarity": "SR",
+    "element": "luz"
+  },
+  {
+    "name": "Sakura Haruno",
+    "gender": "Mujer",
+    "source": "Naruto",
+    "image": "https://files.catbox.moe/zp6irp.jpeg",
+    "stats": { "hp": 80, "maxHp": 80, "magia": 70, "fuerza": 55, "defensa": 30, "velocidad": 40 },
+    "arma": { "tipo": "martillo" },
+    "rarity": "SR",
+    "element": "tierra"
+  },
+  {
+    "name": "Nami",
+    "gender": "Mujer",
+    "source": "One Piece",
+    "image": "https://files.catbox.moe/g2htwx.jpg",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 80, "fuerza": 35, "defensa": 20, "velocidad": 55 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SR",
+    "element": "rayo"
+  },
+  {
+    "name": "Robin",
+    "gender": "Mujer",
+    "source": "One Piece",
+    "image": "https://files.catbox.moe/oehgdc.jpg",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 85, "fuerza": 40, "defensa": 25, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "oscuro"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "gender": "Mujer",
+    "source": "Kimetsu no Yaiba",
+    "image": "https://files.catbox.moe/vyjwh4.jpg",
+    "stats": { "hp": 90, "maxHp": 90, "magia": 50, "fuerza": 70, "defensa": 35, "velocidad": 55 },
+    "arma": { "tipo": "cuchillo" },
+    "rarity": "SSR",
+    "element": "fuego"
+  },
+  {
+    "name": "Mai Sakurajima",
+    "gender": "Mujer",
+    "source": "Bunny Girl Senpai",
+    "image": "https://files.catbox.moe/obry46.png",
+    "stats": { "hp": 65, "maxHp": 65, "magia": 75, "fuerza": 30, "defensa": 20, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SR",
+    "element": "luz"
+  },
+  {
+    "name": "Jordi",
+    "gender": "Hombre",
+    "source": "Estudioso y Hot",
+    "image": "https://files.catbox.moe/njzhi0.jpeg",
+    "stats": { "hp": 85, "maxHp": 85, "magia": 40, "fuerza": 65, "defensa": 30, "velocidad": 40 },
+    "arma": { "tipo": "espada" },
+    "rarity": "R",
+    "element": "aire"
+  },
+  {
+    "name": "Emilia",
+    "gender": "Mujer",
+    "source": "Re:Zero",
+    "image": "https://files.catbox.moe/7kc0lm.jpg",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 85, "fuerza": 35, "defensa": 25, "velocidad": 50 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "hielo"
+  },
+  {
+    "name": "Megumin",
+    "gender": "Mujer",
+    "source": "Konosuba",
+    "image": "https://files.catbox.moe/ijfqkh.jpg",
+    "stats": { "hp": 55, "maxHp": 55, "magia": 100, "fuerza": 20, "defensa": 10, "velocidad": 30 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "explosion"
+  },
+  {
+    "name": "Aqua",
+    "gender": "Mujer",
+    "source": "Konosuba",
+    "image": "https://files.catbox.moe/8908mb.jpg",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 90, "fuerza": 30, "defensa": 20, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "agua"
+  },
+  {
+    "name": "Kurisu Makise",
+    "gender": "Mujer",
+    "source": "Steins;Gate",
+    "image": "https://files.catbox.moe/w6fulo.jpg",
+    "stats": { "hp": 70, "maxHp": 70, "magia": 85, "fuerza": 35, "defensa": 25, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "rayo"
+  },
+  {
+    "name": "Erza Scarlet",
+    "gender": "Mujer",
+    "source": "Fairy Tail",
+    "image": "https://files.catbox.moe/8gjj5m.jpg",
+    "stats": { "hp": 95, "maxHp": 95, "magia": 60, "fuerza": 85, "defensa": 45, "velocidad": 50 },
+    "arma": { "tipo": "espada" },
+    "rarity": "SSR",
+    "element": "tierra"
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "gender": "Mujer",
+    "source": "Fairy Tail",
+    "image": "https://files.catbox.moe/rqa9h3.jpg",
+    "stats": { "hp": 75, "maxHp": 75, "magia": 80, "fuerza": 40, "defensa": 25, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SR",
+    "element": "luz"
+  },
+  {
+    "name": "Yor Forger",
+    "gender": "Mujer",
+    "source": "Spy x Family",
+    "image": "https://files.catbox.moe/hwk7ca.jpg",
+    "stats": { "hp": 90, "maxHp": 90, "magia": 30, "fuerza": 85, "defensa": 40, "velocidad": 65 },
+    "arma": { "tipo": "cuchillo" },
+    "rarity": "SSR",
+    "element": "oscuro"
+  },
+  {
+    "name": "Power",
+    "gender": "Mujer",
+    "source": "Chainsaw Man",
+    "image": "https://files.catbox.moe/v6sktu.jpg",
+    "stats": { "hp": 85, "maxHp": 85, "magia": 40, "fuerza": 80, "defensa": 30, "velocidad": 55 },
+    "arma": { "tipo": "martillo" },
+    "rarity": "SSR",
+    "element": "sangre"
+  },
+  {
+    "name": "Shoto Todoroki",
+    "gender": "Hombre",
+    "source": "Boku no Hero",
+    "image": "https://files.catbox.moe/gcgzp1.jpg",
+    "stats": { "hp": 85, "maxHp": 85, "magia": 75, "fuerza": 70, "defensa": 35, "velocidad": 50 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "hielo-fuego"
+  },
+    {
+    "name": "Sorandel",
+    "gender": "Hombre",
+    "source": "chico nivel 2",
+    "image": "https://files.catbox.moe/7zwann.png",
+    "stats": { "hp": 8, "maxHp": 59, "magia": 100, "fuerza": 70, "defensa": 92, "velocidad": 100 },
+    "arma": { "tipo": "varita" },
+    "rarity": "R",
+    "element": "agua"
+  },
+  {
+    "name": "Makima",
+    "gender": "Mujer",
+    "source": "Chainsaw Man",
+    "image": "https://files.catbox.moe/twbjob.png",
+    "stats": { "hp": 80, "maxHp": 80, "magia": 95, "fuerza": 50, "defensa": 30, "velocidad": 45 },
+    "arma": { "tipo": "varita" },
+    "rarity": "SSR",
+    "element": "control"
+  }
+]

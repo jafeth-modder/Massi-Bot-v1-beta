@@ -1,0 +1,20 @@
+{
+  "120363406302691060@g.us": {
+    "welcome": true,
+    "welcomeText": "🚪 {user} salió del grupo 👥 Quedan: {miembros}"
+  },
+  "120363425071262553@g.us": {
+    "welcome": true,
+    "bye": true
+  },
+  "56975366003-1601696231@g.us": {
+    "welcome": true,
+    "bye": true
+  },
+  "120363424493723497@g.us": {
+    "welcome": true
+  },
+  "120363421727230198@g.us": {
+    "welcome": true
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "trigger": ["bot", "botsito", "robot"],
+
+  "qa": [
+    {
+      "keys": ["hola", "hey", "buenas", "saludos", "holi", "que tal"],
+      "respuestas": [
+        "👋 Hola, ¿qué tal?",
+        "😄 Hey, dime",
+        "🙌 Buenas, aquí estoy",
+        "🤖 Hola humano",
+        "👀 Te leo"
+      ]
+    },
+    {
+      "keys": ["que haces", "q haces", "que andas haciendo", "que haces ahora"],
+      "respuestas": [
+        "😴 nada, vigilando el grupo",
+        "🤖 trabajando 24/7",
+        "😏una paja y tu",
+        "👀 observando humanos",
+        "🧠 pensando en nada",
+        "🚀 listo para lo que sea"
+      ]
+    },
+    {
+      "keys": ["quien eres", "quién eres", "que eres", "eres un bot"],
+      "respuestas": [
+        "🤖 Soy el bot del grupo",
+        "🧠 Un bot sencillo pero efectivo",
+        "👑 El vigilante oficial",
+        "🤖 Solo un bot haciendo su trabajo"
+      ]
+    },
+    {
+      "keys": ["gracias", "thanks", "se agradece", "te lo agradezco"],
+      "respuestas": [
+        "😎 De nada",
+        "💙 Para servir",
+        "🙌 Cuando quieras",
+        "🤖 A la orden"
+      ]
+    },
+
+    /* 🔥 NUEVO BLOQUE – RESPUESTAS CORTAS / CALLE */
+    {
+      "keys": ["obviamente", "claro", "ya", "si pues", "normal", "seguro"],
+      "respuestas": [
+        "🤖 obvio rey",
+        "😎 claro que sí",
+        "🙄 eso ni se pregunta",
+        "👀 normal pues",
+        "😂 ajá… obvio",
+        "😏 claro claro",
+        "🤝 confirmado",
+        "📌 más claro imposible"
+      ]
+    },
+
+    /* 🔥 NUEVO BLOQUE – PARCE / BRO / AMIGO */
+    {
+      "keys": ["parce", "bro", "mano", "men", "compa", "amigo"],
+      "respuestas": [
+        "😎 dime parce",
+        "🤜🤛 todo bien bro",
+        "👀 qué pasó mano",
+        "😂 habla pues",
+        "🤖 aquí estoy compa",
+        "😏 suelta eso pues"
+      ]
+    },
+
+    {
+      "keys": ["gay", "eres gay", "es gay", "mi tio es gay", "tio gay", "libbny"],
+      "respuestas": [
+        "👀 eso dicen por ahí",
+        "😏 rumores del grupo",
+        "🤖 segun escuche si",
+        "😏no se nota?",
+        "🫥eso no se pregunta se nota",
+        "🙄no vez que si, paq preguntas",
+        "✌️Claro que si, solo le da miedo salir del closet",
+        "😏tu lo sabes y yo solo no entremos en detalles",
+        "😂 mejor no entremos en detalles",
+        "confirmado en 100%",
+        "👀 confirmado por todo"
+      ]
+    },
+
+    {
+      "keys": ["ella me ama", "ella me ama?", "el me ama", "el me ama?", "me ama"],
+      "respuestas": [
+        "🤖 Yo digo que sí",
+        "😏 Claro que sí",
+        "😶‍🌫️ No lo creo",
+        "🤣tienes mas cacho que celebro, eso te responde algo?",
+        "😏no te dire pero yo se cositas",
+        "Hmmm tal vez😏si o tal vez no",
+        "👀 eso solo lo sabe ella/él",
+        "🤷‍♂️ pregunta directa mejor"
+      ]
+    },
+    
+    {
+      "keys": ["parce", "bro", "mano", "men", "compa", "amigo"],
+      "respuestas": [
+        "😎 dime parce",
+        "🤜🤛 todo bien bro",
+        "👀 qué pasó mano",
+        "😂 habla pues",
+        "🤖 aquí estoy compa",
+        "😏 suelta eso pues"
+      ]
+    },
+
+    {
+      "keys": ["obvio", "pues", "calla", "callame",
+       "callate", "jum"],
+      "respuestas": [
+        "👀 Mejor cierra la boca perra",
+        "😏 tremenda puta para hablar asi",
+        "🤖 seguro que no eres gay?",
+        "😏 porque hablas como gordo homosexual?",
+        "🫥 yo mismo te callaria esa jeta a vergazos",
+        "🙄no vez que si, paq preguntas",
+        "✌️Callate puta zorra",
+        "😏te das cuenta que hueles a semen?",
+        "😂 hueles y tienes cara de puta, perdon es solo mi opinion",
+        "confirmado en 100%",
+        "👀 por tu manera de hablar parecés gay"
+      ]
+      },
+
+    {
+      "keys": [
+        "segun mi cara",
+        "que dices de mi",
+        "que parezco",
+        "qué parezco",
+        "tengo cara",
+        "segun",
+        "tengo cara de",
+        "me veo",
+        "me veo feo",
+        "soy feo",
+        "soy guapo",
+        "guapa",
+        "fea",
+        "que opinas",
+        "dime tu opinion",
+        "tengo cara de loco"
+      ],
+      "respuestas": [
+        "👀 mejor no digo nada",
+        "😔si respondo sales ofendido",
+        "que afortunados son los que no ven, ellos verian tu belleza",
+        "benditos sean los ciegos",
+        "si te lo crees yo te apoyo",
+        "🤯eres tan lind@ que casi dañas mis sistemas",
+        "😏claro que no",
+        "😏Claro que si mor",
+        "no te has visto en el espejo?🙄",
+        "🥺claro claro",
+        "uy mor de donde tanta confianza",
+        "pues claro bb😍",
+        "🫢uff de donde tanta belleza mejor quédate encerrado guap@",
+        "🥺claro que si eres mi 10/10",
+        "😍lo mas bello que vi es mi opinion",
+        "😏 tienes lo tuyo",
+        "😂 hay esperanza",
+        "🔥 hoy estás pasable",
+        "😬 depende de la luz",
+        "🫣 mejor con filtro",
+        "🤖 sin comentarios oficiales",
+        "👀 el espejo tiene la respuesta"
+      ]
+    },
+
+    {
+      "keys": ["cuantas al dia", "cuántas al día", "pajas", "ganzos"],
+      "respuestas": [
+        "👀 mejor bajarle un poco",
+        "🤖 eso no se mide",
+        "😂 más de las recomendadas",
+        "😬 descansa campeón",
+        "🫣 información confidencial"
+      ]
+    }
+  ],
+
+  "default": [
+    "🤖 no entendí eso",
+    "👀 repite pero con calma",
+    "🧠 aún estoy aprendiendo",
+    "🤖 intenta decirlo diferente",
+    "😵‍💫 eso me bugueó",
+    "😂 háblame bien pues"
+  ]
+}

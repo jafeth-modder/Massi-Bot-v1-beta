@@ -1,0 +1,124 @@
+{
+  "75523124396203@s.whatsapp.net": [
+    {
+      "id": "180de9b3-1991-4871-a025-4831eceb486c",
+      "name": "Drasker",
+      "gender": "Hombre",
+      "source": "Poder oculto",
+      "image": "https://files.catbox.moe/fpkv83.png",
+      "rarity": "SSR",
+      "element": "tierra",
+      "stats": {
+        "hp": 98,
+        "maxHp": 100,
+        "magia": 97,
+        "fuerza": 95,
+        "defensa": 25,
+        "velocidad": 82
+      },
+      "arma": {
+        "tipo": "varita"
+      },
+      "hp": 98,
+      "maxHp": 100,
+      "price": 125,
+      "boughtAt": 1770442385500,
+      "flags": {
+        "favorite": false,
+        "locked": false,
+        "bound": true
+      }
+    }
+  ],
+  "204526929838227@s.whatsapp.net": [
+    {
+      "id": "230ca389-ded6-4e00-94f3-68a39825c9c9",
+      "name": "Aqua",
+      "gender": "Mujer",
+      "source": "Konosuba",
+      "image": "https://files.catbox.moe/8908mb.jpg",
+      "rarity": "SSR",
+      "element": "agua",
+      "stats": {
+        "hp": 70,
+        "maxHp": 70,
+        "magia": 90,
+        "fuerza": 30,
+        "defensa": 20,
+        "velocidad": 45
+      },
+      "arma": {
+        "tipo": "varita"
+      },
+      "hp": 70,
+      "maxHp": 70,
+      "price": 220,
+      "boughtAt": 1770253997110,
+      "flags": {
+        "favorite": false,
+        "locked": false,
+        "bound": true
+      }
+    },
+    {
+      "id": "c1eb5e22-dda8-4a75-a2a0-749f6f2697ab",
+      "name": "Erza Scarlet",
+      "gender": "Mujer",
+      "source": "Fairy Tail",
+      "image": "https://files.catbox.moe/8gjj5m.jpg",
+      "rarity": "SSR",
+      "element": "tierra",
+      "stats": {
+        "hp": 95,
+        "maxHp": 95,
+        "magia": 60,
+        "fuerza": 85,
+        "defensa": 45,
+        "velocidad": 50
+      },
+      "arma": {
+        "tipo": "espada"
+      },
+      "hp": 95,
+      "maxHp": 95,
+      "price": 255,
+      "boughtAt": 1770402184456,
+      "flags": {
+        "favorite": false,
+        "locked": false,
+        "bound": true
+      }
+    }
+  ],
+  "61263497400551@s.whatsapp.net": [
+    {
+      "id": "e082ce4f-de79-4d5c-93c2-ce4265f57153",
+      "name": "Sakura Haruno",
+      "gender": "Mujer",
+      "source": "Naruto",
+      "image": "https://files.catbox.moe/zp6irp.jpeg",
+      "rarity": "SR",
+      "element": "tierra",
+      "stats": {
+        "hp": 80,
+        "maxHp": 80,
+        "magia": 70,
+        "fuerza": 55,
+        "defensa": 30,
+        "velocidad": 40
+      },
+      "arma": {
+        "tipo": "martillo"
+      },
+      "hp": 80,
+      "maxHp": 80,
+      "price": 159,
+      "boughtAt": 1770215159630,
+      "flags": {
+        "favorite": false,
+        "locked": false,
+        "bound": true
+      }
+    }
+  ]
+}
